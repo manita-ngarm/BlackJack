@@ -1,4 +1,4 @@
-# BlackJack-Game
+# Blackjack
 
 1. Set all 52 cards following with the given variables(suits, ranks, and values) and playing = True(for continue looping the game)
 
